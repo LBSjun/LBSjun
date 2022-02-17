@@ -1,6 +1,6 @@
 # 你好！
 
-这里是屑LBS, 普通12岁编程人 ;D
+这里事屑LBS, 普通12岁编程人 ;D
 
 [![LBSjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LBSjun&show_icons=true&hide=contribs,prs)](#)
 
