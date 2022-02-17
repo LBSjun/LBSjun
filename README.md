@@ -2,6 +2,10 @@
 
 这里是屑LBS, 普通12岁编程人 ;D
 
+![LBSjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LBSjun&show_icons=true&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LBSjun&layout=compact)
+
 ## 联系
 
 + 抖音: [LBSjun](https://www.douyin.com/user/MS4wLjABAAAA761wz67ULCRwFYYDM45B3szmfeqKRg74c0KPxaIQVOo)
